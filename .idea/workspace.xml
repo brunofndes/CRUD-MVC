@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15c02f53-384c-47c2-a20d-4f4d97375796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/ListaController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/UsuariosController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/listaView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/partials/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/sobre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/partials/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/partials/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/clancats/hydrahon" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gddntywJ9NbNPIid7xCyd27nbh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mvc\public\assets\images" />
+      <recent name="C:\xampp\htdocs\mvc\public\assets\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15c02f53-384c-47c2-a20d-4f4d97375796" name="Default Changelist" comment="" />
+      <created>1598448573225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598448573225</updated>
+      <workItem from="1598448574835" duration="6870000" />
+      <workItem from="1598552586831" duration="156000" />
+      <workItem from="1598553003972" duration="1925000" />
+      <workItem from="1598555079348" duration="8665000" />
+      <workItem from="1598626272420" duration="3904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="50" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598552599879">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="362" y="50" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1598552599879" />
+    <state x="517" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598558357243">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="517" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1598558357243" />
+    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1598454663808">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="304" y="0" key="CommitChangelistDialog2/62.0.2498.1080@62.0.2498.1080" timestamp="1598454663808" />
+    <state x="474" y="122" key="NewPhpClassDialog" timestamp="1598558468865">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="474" y="122" key="NewPhpClassDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1598558468865" />
+    <state x="513" y="237" key="NewPhpFileDialog" timestamp="1598627559973">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="513" y="237" key="NewPhpFileDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1598627559973" />
+  </component>
+</project>

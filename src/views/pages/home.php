@@ -1,3 +1,6 @@
 <?php $render('header'); ?>
 
-Opa, <?=$nome;?>
+<a href="<?=$base;?>/novo">Novo Usuário</a> ||
+<a href="<?=$base;?>/lista">Lista de Usuários</a>
+
+<?php $render('footer'); ?>

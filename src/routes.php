@@ -1,8 +1,18 @@
 <?php
 use core\Router;
+use src\controllers\HomeController;
 
 $router = new Router();
 
+
+
 $router->get('/', 'HomeController@index');
-$router->get('/sobre/{nome}', 'HomeController@sobreP');
-$router->get('/sobre', 'HomeController@sobre');
+$router->get('/lista', 'ListaController@listar');
+
+$router->get('/novo', 'UsuariosController@add');
+$router->post('/novo', 'UsuariosController@addAction');
+
+$router->get('/usuario/{id}/editar','UsuariosController@edit');
+$router->post('/usuario/{id}/editar','UsuariosController@editAction');
+
+$router->get('/usuario/{id}/excluir','UsuariosController@del');
